@@ -2220,7 +2220,7 @@ body {
     margin-bottom: 7px; }
     @media (min-width: 768px) {
       #footer .text {
-        text-align: left;
+        text-align: center;
         padding-top: 7px;
         margin-bottom: 0; } }
   @media (min-width: 768px) {

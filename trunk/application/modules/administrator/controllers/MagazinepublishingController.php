@@ -3,7 +3,8 @@
 		public function init(){
 			
 		}
-		public function indexAction(){
+		public function indexAction()
+		{
 			
 		}
 		
