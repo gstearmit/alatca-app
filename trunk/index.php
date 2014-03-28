@@ -13,7 +13,7 @@ define('CK_BASE_PATH','/alatcamagazin');
 
 defined('ROOT_PATH') || 
 define('ROOT_PATH',
-        realpath(dirname(__FILE__)));
+        realpath(dirname(__FILE__))); 
 
 defined('APPLICATION_PATH') || 
 define('APPLICATION_PATH',
