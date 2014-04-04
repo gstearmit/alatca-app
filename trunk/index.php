@@ -5,9 +5,9 @@
  * and open the template in the editor.
  */
 defined('SERVER_ENVIRONMENT') ||
-define('SERVER_ENVIRONMENT','localhost');
+define('SERVER_ENVIRONMENT','192.168.0.112');
 defined('WEB_PATH') ||
-define('WEB_PATH','http://localhost/alatcamagazin');
+define('WEB_PATH','http://192.168.0.112/alatcamagazin');
 
 define('CK_BASE_PATH','/alatcamagazin');
 
